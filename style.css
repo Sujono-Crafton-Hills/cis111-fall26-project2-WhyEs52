@@ -43,14 +43,9 @@ ul{
     display: block;
 }
 
-.forabout {
-    padding: 0px;
-    margin:
-}
 
-
-ul #character {
-    display: flex
+#character {
+    display: flex;
     flex-direction: row;
     justify-content: space-between;
     flex-wrap: wrap;
@@ -68,5 +63,10 @@ ul #character {
 }
 
 nav a:hover{
-    color:brown;    
+    color:pink;    
+}
+
+
+footer a:hover{
+    color:pink;
 }
